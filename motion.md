@@ -10,8 +10,9 @@ Fully customizable masks for privacy or motion detection
 
 ### Learn more...
 
-* [https://motion-project.github.io/index.html](https://motion-project.github.io/index.html/)
-* [https://motion-project.github.io/motion_guide.html](https://motion-project.github.io/motion_guide.html/)
+* [https://motion-project.github.io/index.html](https://motion-project.github.io/index.html)
+* 
+[https://motion-project.github.io/motion_guide.html](https://motion-project.github.io/motion_guide.html)
 
 
 ## Installation
