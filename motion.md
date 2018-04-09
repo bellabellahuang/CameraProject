@@ -12,6 +12,7 @@ Fully customizable masks for privacy or motion detection
 `
  Sudo apt-get update
 `
+
 `sudo apt-get install motion
 `
 ## Configuration of motion
