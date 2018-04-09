@@ -22,5 +22,8 @@ Fully customizable masks for privacy or motion detection
 `sudo apt-get install motion
 `
 ## Configuration of motion
+ 
+#### Acknowledgments
 
+* How to configure to capture image and video
 
