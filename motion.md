@@ -1,4 +1,4 @@
-# Motion
+## Motion
 
 Motion is a highly configurable program that monitors video signals from 
 many types of cameras.
